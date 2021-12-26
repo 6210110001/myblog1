@@ -1,0 +1,12 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+#### ชื่อ -สกุล
+>นางสาวกชพร ยิ่งเภตรา 
+#### รหัสนักศึกษา 
+>6210110001
+#### รูปภาพ
+![](https://lh3.googleusercontent.com/ZL7CeiKS7ZCLgeJPWrDK7BUQ574T6P0fDa9wuKtoDXv8gvtdDl9DtMwRb50YgFFEdrwMIJq9bV3QiYnzXNCeeja4RSmQntm9rZ7Bj-j2b2Tm_894DNStpqxkz9Ktp2ymWTyzq6rHD6aib76NQP0BAmLkTxBdO9aUXmfKSa1AlW-HSr_7SyiwYoEltIw65rZb5zLJNgb3bxB6boO2HYG93XIw5Cr2PIvCHPqM-cQR4CEB7unaO7-xn_Ujbo2lunPZ-Cp9pOJVXOyrvtrW2xapWH8OrwxZ_BynjEyNNN_ET5MviW9L6DKT2OhMfNVBQWsqfFeWzMG7bUGaOFFgqw6XG_S68sh4qoNfTEmzFHAVZLocNyHcgCNoffa8rueQ3mfpWyHEr3uDqQzDX1OHpxDC3fSS69q6h--Yur5Kjc_01yrwgeDEbeRqBwfekryuzJnMs5yOj6kZuGZNPP8xOb1vCb8UgctdcmEviSjSRDlGyp2iGPBr8CnmVxDMkqjmLpf4BhuyoAoiPRjd3a_HiQ0N_B0vo6dnvKQy2dAQXYw8hOcVqSXYd7Edxo76NnOJ8qW69Fj9ifH7h2VQF2CQYcXHMrsvT8e0Kh8VbchpfWnDTYiKOPJuW-0gOKiV-YTbBCw68aYjGtE3u6LdhV6MMl_F3awMyuEqvcWjL_sowvY3az1PN9EAmo9nnf6MdFTt4X1xUapuFOm8tE83otDGe0riU56V=w708-h943-no?authuser=0) 
